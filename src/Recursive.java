@@ -1,5 +1,5 @@
 public class Recursive {
-    
+
     // Question 3
     private static int pow(int b, int e) {
         if (e == 0) {
@@ -149,6 +149,14 @@ public class Recursive {
     // F(7) = 23
 
     public static void main(String[] args) {
-        System.out.println("https://youtube.com/watch?v=dQw4w9WgXcQ");
+        //        int[] array = {64, 34, 25, 12, 22, 11, 90};
+        //
+        //        System.out.println("Original:");
+        //        RecursiveInsertionSort.printArray(array);
+        //
+        //        RecursiveInsertionSort.insertionSort(array);
+        //
+        //        System.out.println("Ordenado:");
+        //        RecursiveInsertionSort.printArray(array)
     }
 }
